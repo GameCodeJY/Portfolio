@@ -1,4 +1,4 @@
-# Unity Game Client Portfolio
+# Unity Developer Portfolio
 
 > **이준용 · Game Client Developer**  
 > 3D 액션 로그라이크 DarkRebirth (스마트소프트, 2024.09 – 2026.03) 개발 중 작성한 코드 샘플입니다.  
